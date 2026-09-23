@@ -1,0 +1,13 @@
+{
+  "loss_function": "Focal Loss",
+  "backbone": "ResNet50",
+  "focal_alpha": 0.25,
+  "focal_gamma": 2.0,
+  "checkpoint_epoch": 30,
+  "validation_macro_f1": 0.5957746890378892,
+  "test_macro_f1": 0.6012461253249433,
+  "test_micro_f1": 0.5778069599474721,
+  "test_macro_auroc": 0.8520498771742085,
+  "test_hamming_loss": 0.1530952380952381,
+  "test_subset_accuracy": 0.25142857142857145
+}

@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large Datasets & Archives (ODIR-5K images & archives)
+03_Data_ODIR5K/
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Model Weights & Heavy Checkpoints (Exceeds GitHub limit of 100MB)
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.onnx
+*.h5
+
+# Workspace Temporary & Cache Files
+tmp/
+.playwright-mcp/
+.obsidian/workspace*.json
+
+# Operating System Files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store

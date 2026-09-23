@@ -1,0 +1,23 @@
+{
+  "loss_function": "Weighted BCE",
+  "backbone": "ResNet50",
+  "seed": 62,
+  "pos_weight": [
+    2.0778894424438477,
+    2.1012659072875977,
+    15.225165367126465,
+    15.554054260253906,
+    20.30434799194336,
+    33.02777862548828,
+    19.081966400146484,
+    2.5766422748565674
+  ],
+  "checkpoint_epoch": 17,
+  "validation_macro_f1": 0.607972422324579,
+  "test_macro_f1": 0.5878759772073967,
+  "test_micro_f1": 0.5572649572649573,
+  "test_six_disease_macro_f1": 0.6025811071969128,
+  "test_macro_auroc": 0.8582141006974817,
+  "test_hamming_loss": 0.185,
+  "test_subset_accuracy": 0.1657142857142857
+}

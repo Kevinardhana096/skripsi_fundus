@@ -1,0 +1,8 @@
+{
+  "checkpoint_epoch": 11,
+  "macro_f1": 0.6092722055712549,
+  "micro_f1": 0.6192468619246861,
+  "macro_auroc": 0.8778168844410192,
+  "hamming_loss": 0.13,
+  "subset_accuracy": 0.35619047619047617
+}

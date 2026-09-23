@@ -1,0 +1,12 @@
+{
+  "loss_function": "Poly-1 Loss",
+  "backbone": "ResNet50",
+  "poly_epsilon": 1.0,
+  "checkpoint_epoch": 13,
+  "validation_macro_f1": 0.5796160698179998,
+  "test_macro_f1": 0.5787867397942621,
+  "test_micro_f1": 0.5888252148997135,
+  "test_macro_auroc": 0.8596479403299204,
+  "test_hamming_loss": 0.13666666666666666,
+  "test_subset_accuracy": 0.35619047619047617
+}

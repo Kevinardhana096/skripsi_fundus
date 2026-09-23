@@ -1,0 +1,7 @@
+{
+  "split": "validation",
+  "mean_absolute_probability_difference": 0.0,
+  "maximum_absolute_probability_difference": 0.0,
+  "label_decision_disagreement_rate": 0.0,
+  "patient_exact_agreement_rate": 1.0
+}

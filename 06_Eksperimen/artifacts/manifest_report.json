@@ -1,0 +1,16 @@
+{
+  "patient_count": 3500,
+  "expected_image_count": 7000,
+  "missing_image_count": 0,
+  "multilabel_patient_count": 586,
+  "label_counts": {
+    "N": 1140,
+    "D": 1128,
+    "G": 215,
+    "C": 212,
+    "A": 164,
+    "H": 103,
+    "M": 174,
+    "O": 979
+  }
+}

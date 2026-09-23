@@ -1,0 +1,11 @@
+{
+  "loss_function": "Weighted BCE",
+  "backbone": "ResNet50",
+  "checkpoint_epoch": 21,
+  "validation_macro_f1": 0.6081864853306097,
+  "test_macro_f1": 0.5802126815590708,
+  "test_micro_f1": 0.5524712254570074,
+  "test_macro_auroc": 0.8373765305315531,
+  "test_hamming_loss": 0.15738095238095237,
+  "test_subset_accuracy": 0.26857142857142857
+}

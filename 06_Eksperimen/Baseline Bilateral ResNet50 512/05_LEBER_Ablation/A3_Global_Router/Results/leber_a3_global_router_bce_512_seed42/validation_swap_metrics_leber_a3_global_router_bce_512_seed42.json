@@ -1,0 +1,11 @@
+{
+  "split": "validation",
+  "mean_absolute_probability_difference": 0.0,
+  "maximum_absolute_probability_difference": 0.0,
+  "maximum_router_weight_difference": 0.0,
+  "mean_router_weight_left": 2.3795003016857663e-06,
+  "mean_router_weight_right": 2.0456509446376003e-06,
+  "mean_router_weight_bilateral": 0.9999955892562866,
+  "label_decision_disagreement_rate": 0.0,
+  "patient_exact_agreement_rate": 1.0
+}

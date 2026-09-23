@@ -1,0 +1,16 @@
+{
+  "loss_function": "Asymmetric Loss",
+  "backbone": "ResNet50",
+  "seed": 62,
+  "asl_gamma_neg": 4.0,
+  "asl_gamma_pos": 1.0,
+  "asl_clip": 0.05,
+  "checkpoint_epoch": 5,
+  "validation_macro_f1": 0.5849497946061369,
+  "test_macro_f1": 0.5887975506041674,
+  "test_micro_f1": 0.5540132770066385,
+  "test_six_disease_macro_f1": 0.60894493829768,
+  "test_macro_auroc": 0.8451927874016154,
+  "test_hamming_loss": 0.17595238095238094,
+  "test_subset_accuracy": 0.17523809523809525
+}

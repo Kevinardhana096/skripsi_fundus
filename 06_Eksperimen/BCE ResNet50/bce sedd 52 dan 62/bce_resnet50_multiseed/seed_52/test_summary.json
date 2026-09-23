@@ -1,0 +1,14 @@
+{
+  "loss_function": "BCEWithLogitsLoss",
+  "backbone": "ResNet50",
+  "seed": 52,
+  "bce_pos_weight": null,
+  "checkpoint_epoch": 14,
+  "validation_macro_f1": 0.5947531848735261,
+  "test_macro_f1": 0.5815650967666803,
+  "test_micro_f1": 0.5879332477535302,
+  "test_six_disease_macro_f1": 0.585692174050383,
+  "test_macro_auroc": 0.8258203541506144,
+  "test_hamming_loss": 0.15285714285714286,
+  "test_subset_accuracy": 0.25333333333333335
+}
